@@ -8,10 +8,6 @@ I'm Rammohan Bethi working as Machine Learning Engineer and always willing to le
 - ⚡️ Technologies I work with: PYTHON, DATA SCIENCE, DEEP LEAERNING, MACHINE LEARNING, NLP, SPACY, FLASK,TENSORFLOW, SKLEARN, PANDAS, ETC..
 - 💻 All of my projects are available 👉  [here](https://github.com/rammohanbethi?tab=repositories)
 
-
-### My GitHub Status 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rammohanbethi)
-
 <br>
 
 Giving proper credit when you use any of my Repo.
