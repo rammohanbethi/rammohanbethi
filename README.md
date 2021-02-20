@@ -1,4 +1,4 @@
-<img src= "https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" width = "400">
+<img src= "https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" width = "250">
 
 ### Hi there 👋
 I'm Rammohan Bethi working as Machine Learning Engineer and always willing to learn and work across new technologies and domains. <br/> <br/>
