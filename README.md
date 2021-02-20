@@ -1,4 +1,4 @@
-<img src="https://cdn.dribbble.com/users/1018473/screenshots/3952536/comp_2_2.gif" width="300"> <img src= "https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width = "300">
+<img src="https://wklconsultancy.nl/wp-content/uploads/2017/10/programmer.jpg" width="300"> <img src= "https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width = "300">
 
 ### Hi there 👋
 I'm Rammohan Bethi working as Machine Learning Engineer and always willing to learn and work across new technologies and domains. <br/> <br/>
