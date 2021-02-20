@@ -1,40 +1,20 @@
-<img src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" width="300"> <img src= "https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width = "300">
+<img src="https://cdn.dribbble.com/users/1018473/screenshots/3952536/comp_2_2.gif" width="300"> <img src= "https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width = "300">
 
 ### Hi there 👋
 I'm Rammohan Bethi working as Machine Learning Engineer and always willing to learn and work across new technologies and domains. <br/> <br/>
 
 [![dev.to badge](https://img.shields.io/badge/linkedin-rammohanbethi-%230177B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/rammohan-bethi-9160/)
 
-- ⚡️ Technologies I work with: PYTHON, DATA SCIENCE, DEEP LEAERNING, MACHINE LEARNING, C++, NLP, SPACY, JAVASCRIPT, DJANGO, FLASK, FLUTTER, ANDROID STUDIO, TENSORFLOW, SKLEARN, PANDAS, ETC..
-- 👨‍💻 All of my projects are available 👉  [here](https://github.com/rammohanbethi?tab=repositories)
+- ⚡️ Technologies I work with: PYTHON, DATA SCIENCE, DEEP LEAERNING, MACHINE LEARNING, NLP, SPACY, FLASK,TENSORFLOW, SKLEARN, PANDAS, ETC..
+- 💻 All of my projects are available 👉  [here](https://github.com/rammohanbethi?tab=repositories)
 
 
 ### My GitHub Status 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamhimanshu0) ![Github stats](https://github-readme-stats.vercel.app/api?username=iamhimanshu0&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rammohanbethi)
 
-### 💖 ### Support my projects <br>
-I open-source almost everything I can, and I try to reply to everyone needing help using these projects. Obviously, this takes time. You can use this service for free.
+<br>
 
-However, if you are using my project and happy with it or just want to encourage me to continue creating stuff, there are few ways you can do it :-
-
-Giving proper credit when you use any of my Repo, linking back to it :D
-Starring and sharing the project 🚀
+Giving proper credit when you use any of my Repo.
 
 Thanks! ❤️
 
-
-
-<!--
-**iamhimanshu0/iamhimanshu0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
