@@ -10,7 +10,7 @@ I'm Rammohan Bethi working as Machine Learning Engineer and always willing to le
 
 <br>
 ### Support my projects 
-<br>
+
 
 Giving proper credit when you use any of my Repo.
 
