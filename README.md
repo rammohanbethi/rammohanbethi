@@ -9,10 +9,10 @@ I'm Rammohan Bethi working as Machine Learning Engineer and I always willing to 
 - 💻 All of my projects are available 👉  [here](https://github.com/rammohanbethi?tab=repositories)
 
 <br>
-### Support my projects 
 
+### Support my projects
 
 Giving proper credit when you use any of my Repo.
 
-Thanks! ❤️
+Thanks!
 
