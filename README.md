@@ -38,25 +38,21 @@ I'm Rammohan Bethi working as Machine Learning Engineer and I always willing to 
 <code><img height="30" src="https://image.flaticon.com/icons/png/512/873/873107.png"></code>
 
 #### Others
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png"></code>
+
 <code><img height="30" src="https://www.psych.mcgill.ca/labs/mogillab/anaconda2/pkgs/anaconda-navigator-1.4.3-py27_0/lib/python2.7/site-packages/anaconda_navigator/static/images/anaconda-icon-1024x1024.png"></code>
+<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="30" src="https://www.docker.com/sites/default/files/d8/2019-07/vertical-logo-monochromatic.png"></code>
 <code><img height="30" src="https://cdn.iconscout.com/icon/free/png-512/notion-1693557-1442598.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 #### Operating System
-<code><img height="30" src="https://github.com/EgoistDeveloper/operating-system-logos/blob/master/src/48x48/linux.png?raw=true"></code>
-<code><img height="30" src="https://github.com/EgoistDeveloper/operating-system-logos/blob/master/src/48x48/ubuntu.png?raw=true"></code>
-<code><img height="30" src="https://github.com/EgoistDeveloper/operating-system-logos/blob/master/src/48x48/debian.png?raw=true"></code>
-<code><img height="30" src="https://github.com/EgoistDeveloper/operating-system-logos/blob/master/src/48x48/arch-linux.png?raw=true"></code>
 <code><img height="30" src="https://github.com/EgoistDeveloper/operating-system-logos/blob/master/src/48x48/windows.png?raw=true"></code>
+<code><img height="30" src="https://github.com/EgoistDeveloper/operating-system-logos/blob/master/src/48x48/linux.png?raw=true"></code>
 <code><img height="30" src="https://github.com/EgoistDeveloper/operating-system-logos/blob/master/src/48x48/mac.png?raw=true"></code>
 
 #### Hardware
-<code><img height="30" src="https://brandslogos.com/wp-content/uploads/images/large/arduino-logo-1.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/iiiypuk/rpi-icon/master/raspberry-pi-logo_resized_256.png"></code>
-<code><img height="30" src="https://avatars.githubusercontent.com/u/47798062?s=200&v=4"></code>
 <code><img height="30" src="https://www.saashub.com/images/app/service_logos/45/52b54fa6b6bc/large.png?1555655428"></code>
 
 ---
