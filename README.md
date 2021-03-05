@@ -32,7 +32,7 @@ I'm Rammohan Bethi working as Machine Learning Engineer and I always willing to 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
 <code><img height="30" src="https://colab.research.google.com/img/colab_favicon_256px.png"></code>
 <code><img height="30" src="https://avatars2.githubusercontent.com/u/2810941?v=3&s=96"></code>
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/2/24/IBM_Cloud_logo.pnghttps://upload.wikimedia.org/wikipedia/commons/2/24/IBM_Cloud_logo.png"></code>
+<code><img height="30" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZR2wSyeNAO4LW0N8a21oWeTTbtZoGf2etaQ&usqp=CAU"></code>
 
 #### Others
 
