@@ -11,7 +11,7 @@
 
 
 -----
-<img align="right" alt="GIF" src="https://mfiles.alphacoders.com/788/788835.jpg" />
+<img align="right" alt="GIF" src="https://i.pinimg.com/736x/b7/09/df/b709df47bd2d777f54f2d296ecec9157.jpg" />
 
 ### Tools and Technologies:
 
