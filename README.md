@@ -1,3 +1,4 @@
+<h1 align="center">Hi <img height=30 width=30 alt="GIF" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" />, I'm Rammohan</h1>
 <img src= "https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" width = "250">
 
 ### Hi there 👋
