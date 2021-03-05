@@ -12,6 +12,9 @@
 - ⚡️ Technologies I work with: PYTHON, DATA SCIENCE, DEEP LEAERNING, MACHINE LEARNING, NLP, SPACY, FLASK,TENSORFLOW, SKLEARN, PANDAS, ETC..
 
 
+-----
+<img align="right" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />
+
 ### Tools and Technologies:
 
 #### Languages
