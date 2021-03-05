@@ -11,7 +11,7 @@
 
 
 -----
-<img align="right" alt="GIF" src="https://i.giphy.com/media/nLmg6CW4rAiOc/giphy.webp" />
+<img align="right" alt="GIF" src="https://mfiles.alphacoders.com/788/788835.jpg" />
 
 ### Tools and Technologies:
 
