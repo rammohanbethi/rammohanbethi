@@ -13,7 +13,7 @@
 
 
 -----
-<img align="right" alt="GIF" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7qZBLE-VEWXY0TCUgJCYrKoQHcXRRYW1Gfw&usqp=CAU" />
+<img align="right" alt="GIF" src="https://i.giphy.com/media/nLmg6CW4rAiOc/giphy.webp" />
 
 ### Tools and Technologies:
 
