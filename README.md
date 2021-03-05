@@ -13,7 +13,7 @@
 
 
 -----
-<img align="right" alt="GIF" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" />
+<img align="right" alt="GIF" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7qZBLE-VEWXY0TCUgJCYrKoQHcXRRYW1Gfw&usqp=CAU" />
 
 ### Tools and Technologies:
 
