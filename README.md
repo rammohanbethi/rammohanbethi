@@ -13,7 +13,7 @@
 
 
 -----
-<img align="right" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />
+<img align="right" alt="GIF" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" />
 
 ### Tools and Technologies:
 
