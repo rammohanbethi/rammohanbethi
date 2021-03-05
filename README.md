@@ -11,7 +11,7 @@
 
 
 -----
-<img align="right" alt="GIF" src="https://ih1.redbubble.net/image.1740559220.7721/poster,504x498,f8f8f8-pad,600x600,f8f8f8.jpg" />
+<img align="right" alt="GIF" src="https://www.betterthanpants.com/media/catalog/product/e/a/eat-sleep-code-repeat-tshirt-large.png" />
 
 ### Tools and Technologies:
 
