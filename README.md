@@ -4,7 +4,6 @@
 - I am currently working 💻 as Machine Learning Engineer and I always willing to learn and work across new technologies and domains.
 - All of my projects are available 👉  [here](https://github.com/rammohanbethi?tab=repositories)
 
-<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
 [![dev.to badge](https://img.shields.io/badge/linkedin-rammohanbethi-%230177B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/rammohan-bethi-9160/)
 [![dev.to badge](https://img.shields.io/badge/kaggle-arbethi-%230177B5?style=flat&logo=kaggle)](https://www.kaggle.com/arbethi)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:rams777bethi@gmail.com)](mailto:rams777bethi@gmail.com)
